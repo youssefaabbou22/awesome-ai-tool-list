@@ -166,3 +166,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [SASA](https://www.usesasa.com/) - AI-powered accounting
   - **Tags**: `Free` `Subscription` `AI` `Accoutning` `Bookkeeping` `Receipt Scanning` `Invoicing`
   - **Pricing**: Free tier, Premium
+
+## Video Generation
+- [Audio2Video](https://audio2video.launch.day) - AI-powered tool that converts audio files into engaging videos with animated waveforms, subtitles, and visual templates. Perfect for podcasters, musicians, and creators who want to repurpose audio content for social media and video platforms.
+  - **Tags**: `AI` `Video Creation` `Audio to Video` `Podcasters` `Music` `Social Media` `Content Marketing`
+  - **Pricing**: $19
+  - **Contact**: youssef.aabbou@atlasweb.solutions
+
