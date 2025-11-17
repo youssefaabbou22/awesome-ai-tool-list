@@ -168,8 +168,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   - **Pricing**: Free tier, Premium
 
 ## Video Generation
-- [Audio2Video](https://audio2video.launch.day) - AI-powered tool that converts audio files into engaging videos with animated waveforms, subtitles, and visual templates. Perfect for podcasters, musicians, and creators who want to repurpose audio content for social media and video platforms.
+- [Audio2Video](https://audio2video.launch.day) - AI-powered tool that instantly creates viral social media content, including threads, posts, and visual stories, with customizable designs, layouts, and multi-platform export. Perfect for creators, marketers, influencers, and businesses looking to produce high-engagement content quickly.
   - **Tags**: `AI` `Video Creation` `Audio to Video` `Podcasters` `Music` `Social Media` `Content Marketing`
   - **Pricing**: $19
+  - **Contact**: youssef.aabbou@atlasweb.solutions
+## Social Media
+- [Theadify](https://audio2video.launch.day) - AI-powered tool that instantly creates viral social media content, including threads, posts, and visual stories, with customizable designs, layouts, and multi-platform export. Perfect for creators, marketers, influencers, and businesses looking to produce high-engagement content quickly.
+  - **Tags**: `AI` `Content Creation` `Social Media` `Threads` `Viral Content` `Marketing` `Visual Stories` `Post Generator` `Creator Tools` `Automation`
+  - **Pricing**: $39
   - **Contact**: youssef.aabbou@atlasweb.solutions
 
